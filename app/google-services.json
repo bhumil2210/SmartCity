@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "578116365048",
+    "firebase_url": "https://smartcity-1522557498126.firebaseio.com",
+    "project_id": "smartcity-1522557498126",
+    "storage_bucket": "smartcity-1522557498126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578116365048:android:fd5a362eeab67c27",
+        "android_client_info": {
+          "package_name": "bhumil.test.smartcity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578116365048-0usamjhf6etordq8lj7ni42ck5amrbmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwIOO6TwB9boCz52VR3UT_VUyD-VTIYAE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
