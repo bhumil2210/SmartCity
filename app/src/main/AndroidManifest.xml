@@ -47,6 +47,18 @@
         <activity android:name=".signup">
 
         </activity>
+        <activity android:name=".GActivity">
+
+        </activity>
+        <activity android:name=".DataActivity">
+
+        </activity>
+        <activity android:name=".Reader">
+
+        </activity>
+        <activity android:name=".BarCode">
+
+        </activity>
     </application>
 
 </manifest>
